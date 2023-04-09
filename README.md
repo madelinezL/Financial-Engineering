@@ -1,2 +1,2 @@
 # Financial-Engineering
-This repository is for my study of finance general concepts and financial engineering.
+This repository is used for my study of fundamental financial concepts and tfinancial engineering.
