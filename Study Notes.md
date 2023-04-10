@@ -1,2 +1,3 @@
-# Finance Basics {style="font-size: 16px;"}
-## Financial Transactions Learning Series {style="font-size: 10px;"}
+<h1 style="font-size: 20px;">Heading 1</h1>
+<h2 style="font-size: 18px;">Heading 2</h2>
+
