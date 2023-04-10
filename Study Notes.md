@@ -1,5 +1,17 @@
-<h1 style="font-size: 20px;">Finance Basics</h1>
+<style>
+/* Set font size for Heading 1 */
+h1 {
+  font-size: 14px;
+}
 
-<h2 style="font-size: 10px;">Financial Transactions Learning Series</h2>
-test
+/* Set font size for Heading 2 */
+h2 {
+  font-size: 10px;
+}
+</style>
+
+<h1>Finance Basics</h1>
+
+<h2>Financial Transactions Learning Series</h2>
+
 
