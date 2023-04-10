@@ -1,7 +1,4 @@
-**Finance Basics**
-*Financial Transactions Learning Series*
+<h1 style="font-size: 20px;">Finance Basics</h1>
 
-<h1 style="font-size: 20px;">Heading Text</h1>
-
-<p style="font-size: 20px;">Paragraph Text</p>
+<p style="font-size: 20px;">Financial Transactions Learning Series Text</p>
 
