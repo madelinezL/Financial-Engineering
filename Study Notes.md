@@ -1,4 +1,4 @@
-# Finance Basics
+## Finance Basics
 
-## Financial Transactions Learning Series
+### Financial Transactions Learning Series
 
