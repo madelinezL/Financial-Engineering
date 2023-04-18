@@ -1,3 +1,4 @@
+***4/17/2023***
 ### 1. ARIMA Model (Autoregressive Integrated Moving Average) <br>
 The ARIMA model is generally represented as ARIMA (p,d,q), where p,d, and q are the parameters described below. ARIMA model is a combination of autoregressive, differencing, and moving average components that help to capture the patterns and 
 1. AutoRegressive (AR): It captures the relationship between a current observation and a certain number of previous observations (lags). The AR part of ARIMA is described by the parameter 'p', which determines the number of lags to consider.
