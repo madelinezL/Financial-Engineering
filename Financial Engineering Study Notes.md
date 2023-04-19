@@ -6,3 +6,5 @@ The ARIMA model is generally represented as ARIMA (p,d,q), where p,d, and q are 
 3. Moving Average (MA): It captures the relationship between a current observation and a moving average of previous erros (residuals). The MA part is described by the parameter 'q', which determines the order of the moving average. <br> <br>
 
 ARIMA(p, d, q): Δ^d Y(t) = c + φ1 * Δ^d Y(t-1) + ... + φp * Δ^d Y(t-p) + ε(t) - θ1 * ε(t-1) - ... - θq * ε(t-q)
+
+*4/19/2023*
