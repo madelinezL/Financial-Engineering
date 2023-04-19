@@ -11,4 +11,4 @@ ARIMA(p, d, q): Δ^d Y(t) = c + φ1 * Δ^d Y(t-1) + ... + φp * Δ^d Y(t-p) + ε
 stock prices and stock returns, time series analysis, portfolio theory (harry markowitz), Algorithmic trading (best time to buy/sell) <br>
 ### Understanding Financial Data
 * test <br>
-  -test 2
+  - test 2
