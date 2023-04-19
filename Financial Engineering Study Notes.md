@@ -8,3 +8,6 @@ The ARIMA model is generally represented as ARIMA (p,d,q), where p,d, and q are 
 ARIMA(p, d, q): Δ^d Y(t) = c + φ1 * Δ^d Y(t-1) + ... + φp * Δ^d Y(t-p) + ε(t) - θ1 * ε(t-1) - ... - θq * ε(t-q)
 
 *4/19/2023*
+stock prices and stock returns, time series analysis, portfolio theory (harry markowitz), Algorithmic trading (best time to buy/sell) <br>
+### Understanding Financial Data
+- 
