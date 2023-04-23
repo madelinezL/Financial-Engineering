@@ -5,3 +5,9 @@
 However, prepayment options may come with certain restrictions or penalties, such as a prepayment fee or a minimum time period before the prepayment is allowed.
   - SWPM 
 
+- [ ] Task 1
+- [x] Task 2
+  - [x] Subtask 1 -> Subtask description
+  - [ ] Subtask 2 -> Another subtask description
+- [ ] Task 3
+
