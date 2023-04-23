@@ -5,13 +5,4 @@
 However, prepayment options may come with certain restrictions or penalties, such as a prepayment fee or a minimum time period before the prepayment is allowed.
   - SWPM &#8594; Product
 
-- [ ] Task 1
-- [x] Task 2
-  - [x] Subtask 1 -> Subtask description
-  - [ ] Subtask 2 -> Another subtask description
-- [ ] Task 3
 
-Press the &#8592; key to go back.
-Press the &#8594; key to go forward.
-Press the &#8593; key to go up.
-Press the &#8595; key to go down.
