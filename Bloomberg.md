@@ -15,3 +15,6 @@ The prepayment option gives the borrower or issuer the flexibility to pay off th
 #### Yield Curve <br/>
 Yield refers to the return on an investment, usually expressed as a percentage. A yield curve is a graphical representation of the relationship between the yield (i.e., interest rate) of bonds or other fixed-income securities and their respective maturities. Bonds with longer maturities generally have higher yields than bonds with shorter maturities. This is because investors demand a higher yield for holding longer-term bonds due to the greater uncertainty and risk associated with the longer holding period. <br/>
 * How to search/calculate prepayment option value in BB
+  - CRVF &#8594; Credit &#8594; Type in the Name &#8594; Choose Graph &#8594; Table &#8594; Value
+  - Input Date
+  - Select the table and screenshot
