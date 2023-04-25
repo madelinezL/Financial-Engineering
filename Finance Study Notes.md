@@ -11,3 +11,5 @@ Funds: Funds manage pooled investments that are gathered from various investors 
 Venture Capital: VC invests/provides funds in early-stage, high-potential, growth companies in exchange for equity or ownership stake. VC firms not only provide capital but also offer strategic guidance, mentorship, and networking opportunities to help their portfolio companies grow and succeed. <br><br>
 Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, commodities, currencies, or derivatives) to generate profits using their own capital. They often use sophisticated technology and quantitative models to identify and exploit market inefficiencies or short-term price movements. <br>
 
+### 3. Corporate Finance - Damodaran
+*4/25/23*
