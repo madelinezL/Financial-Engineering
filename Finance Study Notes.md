@@ -15,5 +15,5 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 ### 3. Corporate Finance - Damodaran
 ##### Chapter 1 The Foundations
 * Three fundamental principles
-  - The Investment Principle: measure the return on a proposed investment decision and compare it to a minimum acceptable hurdle rate (hurdle rate) to decide whether the project is acceptable.
+  - The Investment Principle: measure the return on a proposed investment decision and compare it to <u> a minimum acceptable hurdle rate (hurdle rate) </u> to decide whether the project is acceptable.
   - The Financing Principle: 
