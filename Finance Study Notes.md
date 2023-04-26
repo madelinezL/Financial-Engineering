@@ -12,5 +12,5 @@ Venture Capital: VC invests/provides funds in early-stage, high-potential, growt
 Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, commodities, currencies, or derivatives) to generate profits using their own capital. They often use sophisticated technology and quantitative models to identify and exploit market inefficiencies or short-term price movements. <br>
 
 ### 3. Corporate Finance - Damodaran
-*4/25/23*
-####Chapter 1 The Foundations
+*4/25/23* <br>
+#### Chapter 1 The Foundations
