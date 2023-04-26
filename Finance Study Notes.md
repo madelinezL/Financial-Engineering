@@ -13,3 +13,4 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 
 ### 3. Corporate Finance - Damodaran
 *4/25/23*
+####Chapter 1 The Foundations
