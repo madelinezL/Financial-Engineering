@@ -14,6 +14,7 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 *4/25/23*
 ### 3. Corporate Finance - Damodaran
 ##### Chapter 1 The Foundations
+* Debt vs Equity
 * Three fundamental principles
   - The Investment Principle: measure the return on a proposed investment decision and compare it to <ins> a minimum acceptable hurdle rate (hurdle rate) </ins> to decide whether the project is acceptable.
   - The Financing Principle: determine the optimal mix of debt and equity.
