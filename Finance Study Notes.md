@@ -44,5 +44,6 @@ in the upside.
 <p align="center">
   <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="300">
 </p> <br/>
+* Measuring Risk
   - Investors prefer positively skewed distributions to negatively skewed ones, and distributions with a lower likelihood of jumps (lower kurtosis) over those with a higher likelihood of jumps (higher kurtosis).
 
