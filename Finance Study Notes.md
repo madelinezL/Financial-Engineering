@@ -30,5 +30,5 @@ in the upside.
   - Golden parachute: an antitakeover device which provides a payment of a lump sum or cash flows over a period, if the manager covered by the contract loses his/her job in a takeover.
   - Poison pills: If a hostile acquirer takes over the firm, stockholders are given the right to buy additional shares at a price much lower than the current stock price.
 * Choosing the right objective
-  - <ins> stock price maximazation </ins>, market share maximization, firm value maximization, profitability maximization, etc.
-  - confilcts between managers and stockholders, bondholders and stockholders, managers and society, managers and financial markets, etc. 
+  - <ins> Stock price maximazation </ins>, market share maximization, firm value maximization, profitability maximization, etc.
+  - Confilcts between managers and stockholders, bondholders and stockholders, managers and society, managers and financial markets, etc. 
