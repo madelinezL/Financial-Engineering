@@ -12,7 +12,9 @@ ARIMA(p, d, q): Δ^d Y(t) = c + φ1 * Δ^d Y(t-1) + ... + φp * Δ^d Y(t-p) + ε
 It is a mathematical formula that helps investors and traders estimate the fair value of an option. It takes into account several factors, including the current price of the underlying asset, the option's strike price, the time until expiration, the risk-free interest rate, and <ins> the expected volatility (implied volatility) </ins> of the underlying asset.  
 
 *4/19/23*
-stock prices and stock returns, time series analysis, portfolio theory (harry markowitz), Algorithmic trading (best time to buy/sell) <br>
+
+Stock prices and stock returns, time series analysis, portfolio theory (harry markowitz), Algorithmic trading (best time to buy/sell) <br>
+
 ### Understanding Financial Data
 * test <br>
   - test 2
