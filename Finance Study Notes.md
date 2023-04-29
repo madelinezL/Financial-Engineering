@@ -22,4 +22,4 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 ##### Chapter 2 The Objective in Decision Making
 * Choosing the right objective: maximize some function or variable, such as profits or growth, or minimize risk or costs. <br/>
 *4/28/23* <br/>
-Greenmail: 
+Greenmail: A Practice in corporate finance where an investor, typically a corporate raider, buys a significant stake in a company and then threatens to take over the company unless the company agrees to buy back the shares at a premium price. It is a form of blackmail that involves the color of money.
