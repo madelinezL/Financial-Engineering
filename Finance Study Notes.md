@@ -22,4 +22,4 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 ##### Chapter 2 The Objective in Decision Making
 * Choosing the right objective: maximize some function or variable, such as profits or growth, or minimize risk or costs. <br/>
 *4/28/23* <br/>
-greenmail
+Greenmail
