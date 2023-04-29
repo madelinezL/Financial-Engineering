@@ -35,4 +35,4 @@ in the upside.
   - <ins> Stock price maximazation</ins>, market share maximization, firm value maximization, profitability maximization, etc.
   - Confilcts between managers and stockholders, bondholders and stockholders, managers and society, managers and financial markets, etc. 
 ##### Chapter 3 The Basics of Risk
-* __Treasury Stock__: shares of a company's own stock that the company has bought back from shareholders and is holding in its own treasury. Treasury stock can be reissued in the future or retired, which reduces the total number of outstanding shares.
+* __Treasury Stock__: Shares of a company's own stock that the company has bought back from shareholders and is holding in its own treasury. Treasury stock can be reissued in the future or retired, which reduces the total number of outstanding shares.
