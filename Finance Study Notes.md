@@ -32,6 +32,6 @@ in the upside.
 
 *4/29/23*
 * Choosing the right objective
-  - <ins> Stock price maximazation </ins>, market share maximization, firm value maximization, profitability maximization, etc.
+  - <ins> Stock price maximazation</ins>, market share maximization, firm value maximization, profitability maximization, etc.
   - Confilcts between managers and stockholders, bondholders and stockholders, managers and society, managers and financial markets, etc. 
 ##### Chapter 3 The Basics of Risk
