@@ -47,7 +47,7 @@ in the upside.
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-left: 200px;">
-    <img src="screenshots/return-variance.PNG" alt="return and variance" width="500" />
+    <img src="screenshots/return-variance.PNG" alt="return and variance" width="350" />
   </div>
 </div>
 
