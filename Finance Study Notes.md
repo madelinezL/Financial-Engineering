@@ -42,7 +42,7 @@ in the upside.
     - Skewness: the bias toward positive or negative returns. A positive skewness indicates that the distirbution has a tail that extends to the right, or positive side.
     - Kurtosis: describes the shape of a distirbution's tails relative to its overall shape. A positive kurtosis value indicates heavy tails and a peaked distribution, while a negative kurtosis value indicates light tails and a flat distribution. A kurtosis value of 0 indicates that the tails are similar to that of a normal distribution.
 
-<div style="text-align:right; margin-right: 20px;">
+<div style="text-align:right; margin-right: 1000000px;">
   <img src="screenshots/return-variance.PNG" style="width: 30%;">
 </div>
 
