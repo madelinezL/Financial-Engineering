@@ -38,5 +38,5 @@ in the upside.
 * __Treasury Stock__: Shares of a company's own stock that the company has bought back from shareholders and is holding in its own treasury. Treasury stock can be reissued in the future or retired, which reduces the total number of outstanding shares.
 * Measuring Risk
   - Terms:
-    - Variance / standard deviation: the spread of the actual returns around the expected return. The greater the deviation of the actual returns from expected returns, the greater the variance.
+    - Variance / Standard Deviation: the spread of the actual returns around the expected return. The greater the deviation of the actual returns from expected returns, the greater the variance.
     - Skewness: 
