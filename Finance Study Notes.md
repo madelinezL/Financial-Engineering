@@ -44,3 +44,5 @@ in the upside.
  <picture>
   <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="300">
  </picture>
+ 
+ ![](screenshots/return-variance.png)
