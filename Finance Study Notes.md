@@ -23,4 +23,7 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 * Choosing the right objective: maximize some function or variable, such as profits or growth, or minimize risk or costs. <br/>
 
 *4/28/23* <br/>
-* Greenmail: A Practice in corporate finance where an investor, typically a corporate raider, buys a significant stake in a company and then threatens to take over the company unless the company agrees to buy back the shares at a premium price. It is a form of blackmail that involves the color of money.
+* Fighting hostile acquisitions
+  - Greenmail: A Practice in corporate finance where an investor, typically a corporate raider, buys a significant stake in a company and then threatens to take over the company unless the company agrees to buy back the shares at a premium price. It is a form of blackmail that involves the color of money.
+  - Golden parachute: an antitakeover device which provides a payment of a lump sum or cash flows over a period, if the manager covered by the contract loses his/her job in a takeover.
+  - Poison pills: If a hostile acquirer takes over the firm, stockholders are given the right to buy additional shares at a price much lower than the current stock price.
