@@ -15,6 +15,8 @@ Trading Firms: Trading firms trade financial instruments (e.g. stocks, bonds, co
 ### 3. Corporate Finance - Damodaran
 ##### Chapter 1 The Foundations
 * Debt vs Equity
+Bondholders generally have first claim on cash flows but receive fixed interest payments, assuming that the firm makes enough income to meet its debt obligations. Equity investors have a claim on the cash flows that are left over but have the option in publicly traded firms of declaring bankruptcy if the firm has insufficient cash flows to meet its financial obligations. Bondholders do not get to participate on the upside if the projects succeed but bear a significant portion of the cost if they fail. As a consequence, bondholders tend to view decisions that increase risk much more negatively than stockholders, who are more inclined to factor
+in the upside.
 * Three fundamental principles
   - The Investment Principle: measure the return on a proposed investment decision and compare it to <ins> a minimum acceptable hurdle rate (hurdle rate) </ins> to decide whether the project is acceptable.
   - The Financing Principle: determine the optimal mix of debt and equity to fund operations
