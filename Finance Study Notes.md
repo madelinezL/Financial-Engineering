@@ -43,6 +43,4 @@ in the upside.
     - Kurtosis: describes the shape of a distirbution's tails relative to its overall shape. A positive kurtosis value indicates heavy tails and a peaked distribution, while a negative kurtosis value indicates light tails and a flat distribution. A kurtosis value of 0 indicates that the tails are similar to that of a normal distribution.
 
 ![return and variance](screenshots/return-variance.PNG)
-<img src="/Financial Engineering/screenshots/return-variance.PNG" alt="Alt text" width="50%">
-<img src="/Financial Engineering/screenshots/return-variance.PNG" alt="Alt text" width="50%" style="margin-left: 50px;">
 
