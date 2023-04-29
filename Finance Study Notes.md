@@ -46,5 +46,7 @@ in the upside.
   <img src="screenshots/return-variance.PNG" style="width: 20%;">
 </div>
 
-
+<p align="center">
+  <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="400">
+</p>
 
