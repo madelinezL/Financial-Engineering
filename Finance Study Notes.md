@@ -29,6 +29,8 @@ in the upside.
   - Greenmail: A Practice in corporate finance where an investor, typically a corporate raider, buys a significant stake in a company and then threatens to take over the company unless the company agrees to buy back the shares at a premium price. It is a form of blackmail that involves the color of money.
   - Golden parachute: an antitakeover device which provides a payment of a lump sum or cash flows over a period, if the manager covered by the contract loses his/her job in a takeover.
   - Poison pills: If a hostile acquirer takes over the firm, stockholders are given the right to buy additional shares at a price much lower than the current stock price.
+*4/29/23*
 * Choosing the right objective
   - <ins> Stock price maximazation </ins>, market share maximization, firm value maximization, profitability maximization, etc.
   - Confilcts between managers and stockholders, bondholders and stockholders, managers and society, managers and financial markets, etc. 
+##### Chapter 3 The Basics of Risk
