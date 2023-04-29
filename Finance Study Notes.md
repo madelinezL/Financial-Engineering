@@ -39,4 +39,4 @@ in the upside.
 * Measuring Risk
   - Terms:
     - Variance / Standard Deviation: the spread of the actual returns around the expected return. The greater the deviation of the actual returns from expected returns, the greater the variance.
-    - Skewness: the bias toward positive or negative returns
+    - Skewness: the bias toward positive or negative returns. A positive skewness indicates that the distirbution has a tail that extends to the right, or positive side.
