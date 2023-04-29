@@ -1,4 +1,4 @@
-*4/17/2023*
+*4/17/23*
 ### 1. ARIMA Model (Autoregressive Integrated Moving Average) <br>
 The ARIMA model is generally represented as ARIMA (p,d,q), where p,d, and q are the parameters described below. ARIMA model is a combination of autoregressive, differencing, and moving average components that help to capture the patterns and 
 1. AutoRegressive (AR): It captures the relationship between a current observation and a certain number of previous observations (lags). The AR part of ARIMA is described by the parameter 'p', which determines the number of lags to consider.
@@ -7,9 +7,14 @@ The ARIMA model is generally represented as ARIMA (p,d,q), where p,d, and q are 
 
 ARIMA(p, d, q): Δ^d Y(t) = c + φ1 * Δ^d Y(t-1) + ... + φp * Δ^d Y(t-p) + ε(t) - θ1 * ε(t-1) - ... - θq * ε(t-q)
 
-*4/19/2023*
+*4/29/23*
+### 2. Black-Scholes Model <br>
+It is a mathematical formula that helps investors and traders estimate the fair value of an option. It takes into account several factors, including the current price of the underlying asset, the option's strike price, the time until expiration, the risk-free interest rate, and the <ins> expected volatility <ins/> (implied volatility) of the underlying asset.  
+
+*4/19/23*
 stock prices and stock returns, time series analysis, portfolio theory (harry markowitz), Algorithmic trading (best time to buy/sell) <br>
 ### Understanding Financial Data
 * test <br>
   - test 2
   - 
+
