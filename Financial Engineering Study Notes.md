@@ -16,7 +16,8 @@ It is a mathematical formula that helps investors and traders estimate the fair 
 Stock prices and stock returns, time series analysis, portfolio theory (harry markowitz), Algorithmic trading (best time to buy/sell) <br>
 
 ### Financial Basics
-* test <br>
-  - test 2
-  - 
+* Datasources<br>
+  - Quandl
+  - Quantopian
+  - Pandas-datareader
 
