@@ -48,3 +48,6 @@ in the upside.
 
   -
     - Investors prefer positively skewed distributions to negatively skewed ones, and distributions with a lower likelihood of jumps (lower kurtosis) over those with a higher likelihood of jumps (higher kurtosis).
+* Risk Components
+ - Project-specific risk: When firms take a large number of similar projects, it can be argued that much of this risk should be diversified away in the normal course of business.
+ - Competitive risk: 
