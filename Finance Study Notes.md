@@ -54,6 +54,7 @@ in the upside.
   - Industry-specific risk: technology risk, legal risk, commodity risk.
   - International risk: A firm faces this type of risk when it generates revenues or has costs outside its domestic market.
   - Market risk: macroeconomic factors such as changes in interest rates, term structure (the difference between short- and long-term rates), the risk preferences of investors, inflation, and economic growth. <br/>
+
 *5/1/23*
 * Measuring Market Risk
   - The Capital Asset Pricing Model (CAPM):
