@@ -57,4 +57,5 @@ in the upside.
 
 *5/1/23*
 * Measuring Market Risk
-  - The Capital Asset Pricing Model (CAPM):
+  - The Capital Asset Pricing Model (CAPM)
+    - Assumptions: 1) no transaction costs, 2) all assets are traded and investments are infinitely divisible, 3) no private information and investors therefore cannot find under- or overvalued assets in the market place
