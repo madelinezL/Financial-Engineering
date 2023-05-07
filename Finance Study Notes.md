@@ -13,6 +13,7 @@
     - [Risk Components](#risk-components)
     - [Measuring Market Risk](#measuring-market-risk)
     - [The Risk In Borrowing: Default Risk And The Cost Of Debt](#the-risk-in-borrowing:-default-risk-and-the-cost-of-debt)
+  - [Chapter 4 Risk Measurement And Hurdle Rates In Practice](#chapter-4-risk-measurement-and-hurdle-rates-in-practice)
 
 
 ### 1. Financial Transactions Learning Series
