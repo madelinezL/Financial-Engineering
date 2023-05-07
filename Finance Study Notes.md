@@ -88,3 +88,7 @@ in the upside.
       E(R) = R<sub>f</sub> + &beta;<sub>1</sub>[E(R<sub>1</sub>-R<sub>f</sub>] + &beta;<sub>2</sub>[E(R<sub>2</sub>-R<sub>f</sub>] ... + &beta;<sub>n</sub>[E(R<sub>n</sub>-R<sub>f</sub>]
       
       CAPM can be considered a special case of the APM, where there is only one economic factor driving market-wide returns and the market portfolio is the factor.
+    
+  - __The Multifactor Model__
+    - Formula <br/> <br/>
+      E(R) = R<sub>f</sub> + &beta;<sub>GNP</sub>[E(R<sub>GNP</sub>-R<sub>f</sub>] + &beta;<sub>i</sub>[E(R<sub>i</sub>-R<sub>f</sub>] ... + &beta;<sub>&epsilon;</sub>[E(R<sub>&epsilon;</sub>-R<sub>f</sub>]
