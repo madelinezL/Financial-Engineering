@@ -63,3 +63,12 @@ in the upside.
     - Formula <br/>
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/>
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
+
+
+# Level One Heading
+## Level Two Heading
+### Level Three Heading
+
+1. [Level One Heading](#level-one-heading)
+2. [Level Two Heading](#level-two-heading)
+3. [Level Three Heading](#level-three-heading)
