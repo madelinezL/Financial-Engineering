@@ -98,5 +98,5 @@ in the upside.
   - __Proxy Models__
     
 <p align="center">
-  <img src="screenshots/cost of equity.PNG" alt="Alternative Models For Cost of Equity" width="300">
+  <img src="screenshots/cost of equity.PNG" alt="Alternative Models For Cost of Equity" width="600">
 </p>
