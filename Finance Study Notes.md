@@ -64,3 +64,32 @@ in the upside.
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/>
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
 
+# Table of Contents
+- [Introduction](#introduction)
+  - [Section 1](#section-1)
+    - [Subsection 1.1](#subsection-1.1)
+    - [Subsection 1.2](#subsection-1.2)
+  - [Section 2](#section-2)
+    - [Subsection 2.1](#subsection-2.1)
+    - [Subsection 2.2](#subsection-2.2)
+
+# Introduction
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+## Section 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+### Subsection 1.1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Subsection 1.2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## Section 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Subsection 2.1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Subsection 2.2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
