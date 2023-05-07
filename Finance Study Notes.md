@@ -75,13 +75,9 @@ in the upside.
   - The Capital Asset Pricing Model (CAPM)
     - Assumptions: 1) no transaction costs, 2) all assets are traded and investments are infinitely divisible, 3) no private information and investors therefore cannot find under- or overvalued assets in the market place
     - Formula <br/> <br/>
-      R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/> <br/>
+      R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/> 
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub> <br/>
-      
-      &beta; of an asset *i* = 
-      $$ 
-      \frac{Covariance of asset i with market portfolio}{Variance of the market portfolio} 
+    - $$
+      \beta_i = \frac{\text{Covariance of asset i with market portfolio}}{\text{Variance of the market portfolio}}
       $$
-      
-
 
