@@ -1,4 +1,18 @@
-## Finance Basics
+## Table of Contents
+- [1. Financial Transactions Learning Series](#1-financial-transactions-learning-series)
+- [2. Wealth Management 101](#2-wealth-management-101)
+- [3. Corporate Finance - Damodaran](#3-corporate-finance---damodaran)
+  - [Chapter 1 The Foundations](#chapter-1-the-foundations)
+    - [Debt vs Equity](#debt-vs-equity)
+    - [Three fundamental principles](#three-fundamental-principles)
+  - [Chapter 2 The Objective in Decision Making](#chapter-2-the-objective-in-decision-making)
+    - [Fighting hostile acquisitions](#fighting-hostile-acquisitions)
+    - [Choosing the right objective](#choosing-the-right-objective)
+  - [Chapter 3 The Basics of Risk](#chapter-3-the-basics-of-risk)
+    - [Measuring Risk](#measuring-risk)
+    - [Risk Components](#risk-components)
+    - [Measuring Market Risk](#measuring-market-risk)
+
 
 ### 1. Financial Transactions Learning Series
 
@@ -34,6 +48,7 @@ in the upside.
 * Choosing the right objective
   - <ins> Stock price maximazation</ins>, market share maximization, firm value maximization, profitability maximization, etc.
   - Confilcts between managers and stockholders, bondholders and stockholders, managers and society, managers and financial markets, etc. 
+  
 #### Chapter 3 The Basics of Risk
 * __Treasury Stock__: Shares of a company's own stock that the company has bought back from shareholders and is holding in its own treasury. Treasury stock can be reissued in the future or retired, which reduces the total number of outstanding shares.
 * Measuring Risk
@@ -46,7 +61,6 @@ in the upside.
   <img src="screenshots/return-variance.PNG" alt="Return and Variance" width="300">
 </p>
 
-  -
     - Investors prefer positively skewed distributions to negatively skewed ones, and distributions with a lower likelihood of jumps (lower kurtosis) over those with a higher likelihood of jumps (higher kurtosis).
 * Risk Components
   - Project-specific risk: When firms take a large number of similar projects, it can be argued that much of this risk should be diversified away in the normal course of business.
@@ -63,33 +77,3 @@ in the upside.
     - Formula <br/>
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/>
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
-
-# Table of Contents🍝
-- [Introduction](#introduction)
-  - [Section 1](#section-1)
-    - [Subsection 1.1](#subsection-1.1)
-    - [Subsection 1.2](#subsection-1.2)
-  - [Section 2](#section-2)
-    - [Subsection 2.1](#subsection-2.1)
-    - [Subsection 2.2](#subsection-2.2)
-
-# Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-## Section 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-### Subsection 1.1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Subsection 1.2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-## Section 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Subsection 2.1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Subsection 2.2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
