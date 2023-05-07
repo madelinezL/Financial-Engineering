@@ -65,10 +65,7 @@ in the upside.
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
 
 
-# Level One Heading
-## Level Two Heading
-### Level Three Heading
 
-1. [Level One Heading](#level-one-heading)
-2. [Level Two Heading](#level-two-heading)
-3. [Level Three Heading](#level-three-heading)
+1. [Financial Transactions Learning Series](#Financial-Transactions-Learning-Series)
+2. [Wealth Management 10](#Wealth-Management-10)
+3. [Corporate Finance - Damodaran](#Corporate-Finance - Damodaran)
