@@ -83,3 +83,6 @@ in the upside.
       Assets that are riskier than average will have &beta; that exceed 1 and assets that are safer than average will have &beta; that are lower than 1. The riskless asset will have a &beta; of 0.
 
   - __The Arbitrage Pricing Model (APM)__
+    - Assumptions: two investments with the same exposure to risk should be priced to earn the same expected returns. <br/>
+    - Formula <br/> <br/>
+      E(R) = R<sub>f</sub> + &beta; <sub>1</sub> [E(R<sub>1</sub>-R<sub>f</sub>] + &beta; <sub>2</sub> [E(R<sub>2</sub>-R<sub>f</sub>] ... + &beta; <sub>n</sub> [E(R<sub>n</sub>-R<sub>f</sub>]
