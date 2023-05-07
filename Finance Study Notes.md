@@ -78,11 +78,10 @@ in the upside.
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/> <br/>
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub> <br/>
       
-      &beta; of an asset *i* = $$ 
+      &beta; of an asset *i* = 
+      $$ 
       \frac{Covariance of asset i with market portfolio}{Variance of the market portfolio} 
       $$
       
-      $$
-\frac{10}{2}
-$$
+
 
