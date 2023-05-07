@@ -56,11 +56,10 @@ in the upside.
   - Market risk: macroeconomic factors such as changes in interest rates, term structure (the difference between short- and long-term rates), the risk preferences of investors, inflation, and economic growth. <br/>
 
 *5/1/23*
+*5/7/23*
 * Measuring Market Risk
   - The Capital Asset Pricing Model (CAPM)
     - Assumptions: 1) no transaction costs, 2) all assets are traded and investments are infinitely divisible, 3) no private information and investors therefore cannot find under- or overvalued assets in the market place
-
-*5/7/23* <br/>
-* Formula <br/>
-  R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>)
-
+    - Formula <br/>
+      R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/>
+      where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
