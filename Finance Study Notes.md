@@ -61,3 +61,5 @@ in the upside.
     - Assumptions: 1) no transaction costs, 2) all assets are traded and investments are infinitely divisible, 3) no private information and investors therefore cannot find under- or overvalued assets in the market place
 
 *5/7/23* <br/>
+* Formula
+  R<sub>a = Rrf + &beta; * (R<sub>m - Rrf)
