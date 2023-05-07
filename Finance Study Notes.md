@@ -12,7 +12,7 @@
     - [Measuring Risk](#measuring-risk)
     - [Risk Components](#risk-components)
     - [Measuring Market Risk](#measuring-market-risk)
-    - [The Risk In Borrowing: Default Risk And The Cost Of Debt] (#The-Risk-In-Borrowing:-Default-Risk-And-The-Cost-Of-Debt)
+    - [The Risk In Borrowing: Default Risk And The Cost Of Debt](#the-risk-in-borrowing:-default-risk-and-the-cost-of-debt)
 
 
 ### 1. Financial Transactions Learning Series
