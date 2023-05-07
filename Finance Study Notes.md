@@ -103,3 +103,7 @@ in the upside.
 </p>
 
 * The Risk In Borrowing: Default Risk And The Cost Of Debt
+  - The Determinants of Default Risk
+    - Firm with high cash flows relative to their financial obligations have lower default risk.
+    - The more stable the cash flows, the lower is the default risk in the firm.
+    - The more liquid a firm's assets, the less default risk in the firm.
