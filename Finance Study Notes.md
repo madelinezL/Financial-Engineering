@@ -81,3 +81,5 @@ in the upside.
       &beta;<sub>i</sub> = Covariance of asset i with market portfolio / Variance of the market portfolio <br/>
       
       Assets that are riskier than average will have &beta; that exceed 1 and assets that are safer than average will have &beta; that are lower than 1. The riskless asset will have a &beta; of 0.
+
+  - The Arbitrage Pricing Model (APM)
