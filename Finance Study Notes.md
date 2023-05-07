@@ -108,4 +108,7 @@ in the upside.
     - Firm with high cash flows relative to their financial obligations have lower default risk.
     - The more stable the cash flows, the lower is the default risk in the firm.
     - The more liquid a firm's assets, the less default risk in the firm.
-  - 
+  - Index of Bond Ratings
+ <p align="center">
+  <img src="screenshots/bond ratings.PNG" alt="Index Of Bond Ratings" width="600">
+</p>
