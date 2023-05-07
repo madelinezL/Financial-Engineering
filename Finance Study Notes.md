@@ -92,3 +92,8 @@ in the upside.
   - __The Multifactor Model__
     - Formula <br/> <br/>
       E(R) = R<sub>f</sub> + &beta;<sub>GNP</sub>[E(R<sub>GNP</sub>-R<sub>f</sub>] + &beta;<sub>i</sub>[E(R<sub>i</sub>-R<sub>f</sub>] ... + &beta;<sub>&epsilon;</sub>[E(R<sub>&epsilon;</sub>-R<sub>f</sub>]
+      
+      Multifactor models assume that market risk can be captured best using multiple macroeconomic factors and estimating &beta;s relative to each.
+      
+  - __Proxy Models__
+    
