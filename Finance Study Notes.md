@@ -64,7 +64,7 @@ in the upside.
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/>
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
 
-# Table of Contents
+# Table of Contents🍝
 - [Introduction](#introduction)
   - [Section 1](#section-1)
     - [Subsection 1.1](#subsection-1.1)
