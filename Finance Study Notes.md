@@ -96,6 +96,7 @@ in the upside.
       Multifactor models assume that market risk can be captured best using multiple macroeconomic factors and estimating &beta;s relative to each.
       
   - __Proxy Models__
+  - __Comparative Analysis of Risk and Return Models__
     
 <p align="center">
   <img src="screenshots/cost of equity.PNG" alt="Alternative Models For Cost of Equity" width="600">
