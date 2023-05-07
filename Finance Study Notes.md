@@ -62,4 +62,5 @@ in the upside.
 
 *5/7/23* <br/>
 * Formula <br/>
-  R<sub>a = Rrf + &beta;x(R<sub>m - Rrf)
+  R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>)
+
