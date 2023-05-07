@@ -72,7 +72,7 @@ in the upside.
 *5/1/23*
 *5/7/23*
 * Measuring Market Risk
-  - The Capital Asset Pricing Model (CAPM)
+  - __The Capital Asset Pricing Model (CAPM)__
     - Assumptions: 1) no transaction costs, 2) all assets are traded and investments are infinitely divisible, 3) no private information and investors therefore cannot find under- or overvalued assets in the market place
     - Formula <br/> <br/>
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/> 
@@ -82,4 +82,4 @@ in the upside.
       
       Assets that are riskier than average will have &beta; that exceed 1 and assets that are safer than average will have &beta; that are lower than 1. The riskless asset will have a &beta; of 0.
 
-  - The Arbitrage Pricing Model (APM)
+  - __The Arbitrage Pricing Model (APM)__
