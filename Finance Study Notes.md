@@ -64,8 +64,3 @@ in the upside.
       R<sub>a</sub> = R<sub>rf</sub> + &beta; x (R<sub>m</sub> - R<sub>rf</sub>) <br/>
       where Risk Premium is R<sub>m</sub> - R<sub>rf</sub>
 
-
-
-1. [Financial Transactions Learning Series](#Financial-Transactions-Learning-Series)
-2. [Wealth Management 10](#Wealth-Management-10)
-3. [Corporate Finance - Damodaran](#Corporate-Finance - Damodaran)
