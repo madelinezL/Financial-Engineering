@@ -11,7 +11,8 @@
     - mutual insurance companies (policyholders, investors)
    
   - __Reinsurance__ companies (insurance companies of insurance companies)
-  - Captive insurance companies
+  - Captive insurance companies <br>
+
 *6/24/2023*
 * Distribution Channels
   - Exclusive/Captive Agent
