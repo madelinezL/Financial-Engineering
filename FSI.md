@@ -1,17 +1,26 @@
 # Financial Services Industry Consulting
 ## Insurance
 *6/23/2023*
-### 1. Introduction
+#### 1. Introduction
 * Industry Particpants
   - Insurance Companies (underwriting, direct writers)
-    - general insurance companies/personal and commercial (P&C) companies
-    - life insurance companies
+    - __General insurance__ companies/personal and commercial (P&C) companies
+    - __Life insurance__ companies
    
     - stock insurance companies
-    - mutual insurance companies
+    - mutual insurance companies (policyholders, investors)
    
-  - Reinsurance companies (insurance companies of insurance companies)
+  - __Reinsurance__ companies (insurance companies of insurance companies)
   - Captive insurance companies
+* Distribution Channels
+  - Exclusive/Captive Agent
+  - Broker/Independent Agent
+  - Direct Channel
+  - Bancassurance
+#### 2. Life Insurance and Annuity Overview
+#### 3. Property & Casualty Insurance Overview
+
+
 ## Capital Markets
 ## Banking
 ## Investment Management & Real Estate
