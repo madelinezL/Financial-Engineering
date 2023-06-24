@@ -21,11 +21,12 @@
 #### 3. Property & Casualty Insurance
 * Claim Overview
 * New Hires expectations
-  - retention vs large deductible <br>
+  - Retention vs Large Deductible <br>
     retention: policyholder loss --> self-insured company --> excess insurer <br>
     large deductible: policyholder loss --> excess insurer --> self-insured company
-
-
+  - Reinsurance <br>
+    - Ceded: purchase the reinsurance
+    - Assumed: sells reinsurance
 
 #### 4. Insurance Economics
 * SNL Financial (S&P Global Market Intelligence) - analysis and in-depth data for FSI
