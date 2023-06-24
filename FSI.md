@@ -12,6 +12,7 @@
    
   - __Reinsurance__ companies (insurance companies of insurance companies)
   - Captive insurance companies
+*6/24/2023*
 * Distribution Channels
   - Exclusive/Captive Agent
   - Broker/Independent Agent
