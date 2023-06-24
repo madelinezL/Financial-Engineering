@@ -20,7 +20,10 @@
 #### 2. Life Insurance and Annuity Overview
 #### 3. Property & Casualty Insurance
 * Claim Overview
-* 
+* New Hires expectations
+  - retention vs large deductible <br>
+    retention: policyholder loss --> self-insured company --> excess insurer <br>
+    large deductible: policyholder loss --> excess insurer --> self-insured company
 
 
 
