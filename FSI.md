@@ -1,7 +1,8 @@
 # Financial Services Industry Consulting
 ## Insurance
 *6/23/2023*
-#### 1. Introduction
+### 1. Introduction to Insurance Nano Series
+#### 1.1. Introduction
 * Industry Particpants
   - Insurance Companies (underwriting, direct writers)
     - __General insurance__ companies/personal and commercial (P&C) companies
@@ -19,8 +20,8 @@
   - Broker/Independent Agent
   - Direct Channel
   - Bancassurance
-#### 2. Life Insurance and Annuity Overview
-#### 3. Property & Casualty Insurance
+#### 1.2. Life Insurance and Annuity Overview
+#### 1.3. & 2. Property & Casualty Insurance
 * Claim Overview
 * New Hires expectations
   - Retention vs Large Deductible <br>
@@ -30,10 +31,15 @@
     - Ceded: purchase the reinsurance
     - Assumed: sells reinsurance
 
-#### 4. Insurance Economics
+#### 1.4. Insurance Economics
 * SNL Financial (S&P Global Market Intelligence) - analysis and in-depth data for FSI
 
-
+### 3. P&C Actuarial Technical Training
+* Losses
+  - Paid loss, case reserves, reported loss, incurred but not reported, ultimate loss
+<p align="left">
+  <img src="screenshots/loss.PNG" alt="loss" width="300">
+</p>
 ## Capital Markets
 ## Banking
 ## Investment Management & Real Estate
