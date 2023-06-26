@@ -1,6 +1,6 @@
 # Insurance
-*6/23/2023*
 ## 1. Introduction to Insurance Nano Series
+*6/23/2023*
 ### 1.1. Introduction
 * Industry Particpants
   - Insurance Companies (underwriting, direct writers)
