@@ -41,6 +41,7 @@
 <p align="left">
   <img src="https://github.com/madelinezL/Financial-Engineering/blob/45d8f134d0470331088cadd6aaf7c8f9380f860b/screenshots/loss.PNG" alt="loss" width="300">
 </p>
+
 * Ratios
 <p align="left">
   <img src=https://github.com/madelinezL/Financial-Engineering/blob/45d8f134d0470331088cadd6aaf7c8f9380f860b/screenshots/ratios.PNG alt="ratios" width="450">
