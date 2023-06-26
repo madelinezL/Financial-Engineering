@@ -34,6 +34,8 @@
 #### 1.4. Insurance Economics
 * SNL Financial (S&P Global Market Intelligence) - analysis and in-depth data for FSI
 
+<br><br>
+
 *6/25/2023*
 ### 3. P&C Actuarial Technical Training
 * Losses
