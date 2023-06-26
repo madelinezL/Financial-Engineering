@@ -39,10 +39,10 @@
 * Losses
   - Paid loss, case reserves, reported loss, incurred but not reported, ultimate loss
 <p align="left">
-  <img src="screenshots/loss.PNG" alt="loss" width="300">
+  <img src="https://github.com/madelinezL/Financial-Engineering/blob/45d8f134d0470331088cadd6aaf7c8f9380f860b/screenshots/loss.PNG" alt="loss" width="300">
 </p>
 * Ratios
 <p align="left">
-  <img src="screenshots/ratios.PNG" alt="ratios" width="450">
+  <img src=https://github.com/madelinezL/Financial-Engineering/blob/45d8f134d0470331088cadd6aaf7c8f9380f860b/screenshots/ratios.PNG alt="ratios" width="450">
 </p>
 
