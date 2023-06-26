@@ -51,4 +51,4 @@
 * Trending Basics
 - Loss Rate Trend = Loss Trend / Exposure Trend
                   = Frenquency Trend * Severity Trend / Exposure Trend
-
+- BLAFs: Benefit Level Adjustements Factors (adjust from historical year to current year)
