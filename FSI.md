@@ -34,12 +34,18 @@
 #### 1.4. Insurance Economics
 * SNL Financial (S&P Global Market Intelligence) - analysis and in-depth data for FSI
 
+*6/25/2023*
 ### 3. P&C Actuarial Technical Training
 * Losses
   - Paid loss, case reserves, reported loss, incurred but not reported, ultimate loss
 <p align="left">
   <img src="screenshots/loss.PNG" alt="loss" width="300">
 </p>
+* Ratios
+<p align="left">
+  <img src="screenshots/ratios.PNG" alt="ratios" width="450">
+</p>
+
 ## Capital Markets
 ## Banking
 ## Investment Management & Real Estate
