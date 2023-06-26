@@ -1,4 +1,3 @@
-# Financial Services Industry Consulting
 ## Insurance
 *6/23/2023*
 ### 1. Introduction to Insurance Nano Series
