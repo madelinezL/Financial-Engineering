@@ -46,3 +46,9 @@
   <img src=https://github.com/madelinezL/Financial-Engineering/blob/45d8f134d0470331088cadd6aaf7c8f9380f860b/screenshots/ratios.PNG alt="ratios" width="450">
 </p>
 
+*6/26/2023*
+*Loss Methods
+*Trending Basics
+- Loss Rate Trend = Loss Trend / Exposure Trend
+                  = Frenquency Trend * Severity Trend / Exposure Trend
+
