@@ -57,3 +57,6 @@
 * Types of Underwriters
   - Production Underwriters
   - Staff Underwriters
+*6/28/2023* <br>
+* Insurance company business model
+  - Total Profit = Underwriting Profit + Investment Income
