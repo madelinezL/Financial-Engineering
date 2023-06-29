@@ -63,5 +63,6 @@
 *6/29/2023* <br>
 * Underwriting Metrics
   <p align="left">
-  <img src=https://github.com/madelinezL/Financial-Engineering/blob/773e3ed8bd961dc15f4d3e5ea9a5e6431216a17c/screenshots/underwriting%20financial%20metrics.PNG alt="ratios" width="450">
+  <img src=https://github.com/madelinezL/Financial-Engineering/blob/773e3ed8bd961dc15f4d3e5ea9a5e6431216a17c/screenshots/underwriting%20financial%20metrics.PNG alt="ratios" width="250">
 </p>
+- nonfinancial measures: rentention ratio, hit ratio
