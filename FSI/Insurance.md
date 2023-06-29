@@ -62,8 +62,8 @@
   - Total Profit = Underwriting Profit + Investment Income
 *6/29/2023* <br>
 * Underwriting Metrics
+  - Nonfinancial measures: retention ratio, hit ratio
   - Financial measures
   <p align="left">
   <img src=https://github.com/madelinezL/Financial-Engineering/blob/773e3ed8bd961dc15f4d3e5ea9a5e6431216a17c/screenshots/underwriting%20financial%20metrics.PNG alt="ratios" width="250">
-</p> <br>
-  - Nonfinancial measures: retention ratio, hit ratio
+</p>
