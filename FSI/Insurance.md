@@ -51,7 +51,7 @@
 * Trending Basics
 - Loss Rate Trend = Loss Trend / Exposure Trend
                   = Frenquency Trend * Severity Trend / Exposure Trend
-- BLAFs: Benefit Level Adjustements Factors (adjust from historical year to current year)
+- __BLAFs__: Benefit Level Adjustements Factors (adjust from historical year to current year)
 
 *6/27/2023* <br>
 * Types of Underwriters
