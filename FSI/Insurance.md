@@ -56,10 +56,10 @@
 *6/27/2023* <br>
 * Types of Underwriters
   - Production Underwriters
-  - Staff Underwriters
+  - Staff Underwriters <br>
 *6/28/2023* <br>
 * Insurance company business model
-  - Total Profit = Underwriting Profit + Investment Income
+  - Total Profit = Underwriting Profit + Investment Income <br>
 *6/29/2023* <br>
 * Underwriting Metrics
   - Nonfinancial measures: retention ratio, hit ratio
@@ -67,3 +67,12 @@
   <p align="left">
   <img src=https://github.com/madelinezL/Financial-Engineering/blob/773e3ed8bd961dc15f4d3e5ea9a5e6431216a17c/screenshots/underwriting%20financial%20metrics.PNG alt="ratios" width="250">
 </p>
+
+* Different Methods
+* Commericial Lines Insurance
+  - Commercial Property
+  - Workers' Compensation
+  - General Liability
+  - Commercial Auto
+* Commericial Policy Issuance Life Cycle:
+  - Application, Underwriting, Policy Issued, Premiums Paid, Renewal
