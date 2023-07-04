@@ -79,5 +79,8 @@
   - Commercial Auto
 * Commericial Policy Issuance Life Cycle:
   - Application, Underwriting, Policy Issued, Premiums Paid, Renewal
+* Expected Rating/Manual Rating
+  - Expected Loss = Exposure Base * Loss Cost per Exposure * Rating Factors * Policy Structure
+## 4. Underwriting Excellence (UWE) Series
 
 ## 5. P&C Insurance Analytics Series
