@@ -79,3 +79,5 @@
   - Commercial Auto
 * Commericial Policy Issuance Life Cycle:
   - Application, Underwriting, Policy Issued, Premiums Paid, Renewal
+
+## 5. P&C Insurance Analytics Series
