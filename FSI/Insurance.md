@@ -28,7 +28,11 @@
 ### 1.2. Life Insurance and Annuity Overview
 
 *7/5/2023*
-
+* Net Income = Net Underwriting Income + Net Investment Income + Other Income
+  - Net Underwriting Income = Net Premiums Written - Claims Paid - Expenses (Operating, Commissions)
+  - Net Investment Income
+    * Life premiums
+    * Gains on invested premium exceed investment related expenses
 
 ### 1.3. & 2. Property & Casualty Insurance
 * Claim Overview
