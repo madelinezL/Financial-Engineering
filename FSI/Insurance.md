@@ -30,7 +30,7 @@
 *7/5/2023*
 * Net Income = Net Underwriting Income + Net Investment Income + Other Income
   - Net Underwriting Income = Net Premiums Written - Claims Paid - Expenses (Operating, Commissions)
-  - Net Investment Income
+  - Net Investment Income = Dividends, Interest, Capital Gains - Realized Investment Losses - Investment Expenses
     * Life premiums
     * Gains on invested premium exceed investment related expenses
 
