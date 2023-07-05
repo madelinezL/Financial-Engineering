@@ -98,3 +98,8 @@
 ## 4. Underwriting Excellence (UWE) Series
 
 ## 5. P&C Insurance Analytics Series
+
+## 6. Life Insurance & Annuity (L&A) Academy
+
+## 7. Life Insurance & Annuity Core Systems Transformation Series
+
