@@ -19,6 +19,12 @@
   - Broker/Independent Agent
   - Direct Channel
   - Bancassurance
+
+* Insurance - Business Risks
+  - Underwriting Risk
+  - Investment Risk
+  - Operational Risk
+  - Regulatory Risk
 ### 1.2. Life Insurance and Annuity Overview
 ### 1.3. & 2. Property & Casualty Insurance
 * Claim Overview
