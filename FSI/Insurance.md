@@ -26,6 +26,10 @@
   - Operational Risk
   - Regulatory Risk
 ### 1.2. Life Insurance and Annuity Overview
+
+*7/5/2023*
+
+
 ### 1.3. & 2. Property & Casualty Insurance
 * Claim Overview
 * New Hires expectations
