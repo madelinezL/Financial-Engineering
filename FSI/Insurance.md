@@ -25,6 +25,13 @@
   - Investment Risk
   - Operational Risk
   - Regulatory Risk
+ 
+* Insurance Product Lines
+  - Life Insurance & Annuity
+  - Property & Casualty
+  - Health
+  - Reinsurance
+
 ### 1.2. Life Insurance and Annuity Overview
 
 *7/5/2023*
@@ -102,4 +109,6 @@
 ## 6. Life Insurance & Annuity (L&A) Academy
 
 ## 7. Life Insurance & Annuity Core Systems Transformation Series
+## 8. Life Insurance & Annuity Series
+*7/6/2023* <br>
 
