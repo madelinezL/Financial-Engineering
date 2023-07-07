@@ -25,12 +25,17 @@
   - Investment Risk
   - Operational Risk
   - Regulatory Risk
- 
+
+*7/6/2023*
 * Insurance Product Lines
   - Life Insurance & Annuity
   - Property & Casualty
   - Health
   - Reinsurance
+
+* Insurance Companies - different structures
+  - Stock Company
+  - Mutual Company
 
 ### 1.2. Life Insurance and Annuity Overview
 
