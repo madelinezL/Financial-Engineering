@@ -35,7 +35,20 @@
 
 * Insurance Companies - different structures
   - Stock Company
+    - owned by shareholders
   - Mutual Company
+    - owned by policyholders vs. investors
+    - not traded on the open market; profit earned rebated to policyholders in form of dividend distributions
+    - subject to less regulatory business oversight
+  - Reciprocal Associations
+    - all members insure each other and share losses with each other
+    - a member agrees to share the insurance responsibilities with all other members of the unincorporated group
+  - Lloyd's Association
+    - voluntary association of individuals who agree to share in insurance contracts
+    - each individual responsible for amounts of insurance they write
+  - Fraternal Benefit Society
+    - an incorporated society, without capital stock, operated on the lodge system and conudcted solely for the benefit of its members and not for profit
+    - fraternals offer insurance available only to members; most write only life and health insurance
 
 ### 1.2. Life Insurance and Annuity Overview
 
