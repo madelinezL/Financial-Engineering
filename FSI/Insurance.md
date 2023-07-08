@@ -129,5 +129,4 @@
 ## 7. Life Insurance & Annuity Core Systems Transformation Series
 ## 8. Life Insurance & Annuity Series
 ## 9. Predictive Analytics Series
-*7/6/2023* <br>
-
+## 10. Group Insurance Series
