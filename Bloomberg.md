@@ -21,4 +21,4 @@ Yield refers to the return on an investment, usually expressed as a percentage. 
  
 *8/28/2023*
 #### REIT Yield Curve <br/>
-
+CRVF - Credit - Sector BBB or BB or B - Then type REIT - Graph Selected Curves - Table - Values - Update the Date
