@@ -116,4 +116,3 @@ in the upside.
 
 #### Chapter 4 Risk Measurement And Hurdle Rates In Practice
 * Cost Of Equity: The rate of return that investors require to invest in the equity of a firm
-* 
