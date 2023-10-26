@@ -22,3 +22,11 @@ Yield refers to the return on an investment, usually expressed as a percentage. 
 *8/28/2023*
 #### REIT Yield Curve <br/>
 CRVF - Credit - Sector BBB or BB or B - Then type REIT - Graph Selected Curves - Table - Values - Update the Date
+
+*10/25/2023*
+#### Swamp Manager <br/>
+Swamp Manager - Solver leg 1 coupon
+Add Leg - By Type - Floored Floater 
+Change the date 05/04/2022, 10/31/2026 accordingly
+Change the premium to be 0
+Change the other attributes, i.e. pay freq, index, spread, floor, etc.
