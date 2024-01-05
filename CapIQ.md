@@ -1,5 +1,7 @@
 __CapIQ Fundamentals__: https://learn.corporatefinanceinstitute.com/courses/take/capitaliq-fundamentals/8818
 ### My Capital IQ
+* Customize your dashboard
+* Set alerts
 ### Companies
 ### Markets
 ### Screening
