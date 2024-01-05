@@ -2,7 +2,10 @@ __CapIQ Fundamentals__: https://learn.corporatefinanceinstitute.com/courses/take
 ### My Capital IQ
 * Customize your dashboard
 * Set alerts
+* Financial Glossary
 ### Companies
+* Financials
+  * Segment by geo, by service line, etc.
 ### Markets
 ### Screening
 ### Charting, Coverage, Projects, Portfolios
