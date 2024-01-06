@@ -6,7 +6,9 @@ __CapIQ Fundamentals__: https://learn.corporatefinanceinstitute.com/courses/take
 ### Companies
 * Financials
   * Segment by geo, by service line, etc.
+* CIQ estimates
 ### Markets
+* 
 ### Screening
 ### Charting, Coverage, Projects, Portfolios
 ### Excel Plug-in
