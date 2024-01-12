@@ -33,6 +33,10 @@ Change the other attributes, i.e. pay freq, index, spread, floor, etc. <br/>
 
 *1/10/2024*
 #### Weighted Average Spread <br/>
+Enter the CLO name <br/>
+Choose the respective one <br/>
+Group Summary
+WAS 
 
 *1/12/2024*
 #### USD SOFR <br/>
