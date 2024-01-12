@@ -36,14 +36,14 @@ Change the other attributes, i.e. pay freq, index, spread, floor, etc. <br/>
 
 *1/12/2024*
 #### USD SOFR <br/>
-Enter "USD SOFR (vs. FIXED RATE)", can also chose "YCSW0490 Index under Securities" - GC (graph curve)
-Date as of xx/xx/xx
-Table
+Enter "USD SOFR (vs. FIXED RATE)", can also chose "YCSW0490 Index under Securities" - GC (graph curve) <br/>
+Date as of xx/xx/xx <br/>
+Table <br/>
 Values
 
 #### USD LIBOR <br/>
-Enter "US Dollar Swaps (30/360, S/A)", can also chose "YCSW0023 Index under Securities" - GC (graph curve)
-Date as of xx/xx/xx
-Table
-Values
+Enter "US Dollar Swaps (30/360, S/A)", can also chose "YCSW0023 Index under Securities" - GC (graph curve) <br/>
+Date as of xx/xx/xx <br/>
+Table <br/>
+Values <br/>
 To retrieve 1.25Y and 11Y, go to Curves & Relative Value - Interpolate Curves
