@@ -13,3 +13,6 @@ __CapIQ Fundamentals__: https://learn.corporatefinanceinstitute.com/courses/take
 * Coverage
   * Companies we work with, relationship we have 
 ### Excel Plug-in
+
+### Pull Data
+USD real estate
