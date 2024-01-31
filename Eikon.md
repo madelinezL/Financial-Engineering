@@ -1,2 +1,2 @@
 # How to pull the SOFR data
-Charting - Profile - Curves - USDSOFR=
+Charting - Profile - Curves - USDSOFR
