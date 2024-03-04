@@ -57,8 +57,12 @@ Enter a series of criteria <br/>
 5. Maturity Type - Bullet or Make Whole Call <br/>
 6. Maturity - 03/04/2029
 
-
-
+#### How to search USD US Financial Services Industry YTM 
+CRVF - Credit - Financials <br/>
+Select BBB, Type USD US Financials, click the USD US Financials BBB+, BBB, BBB- BVAL Yield Curve <br/>
+Same for BB and B <br/>
+Clieck Graph Slected Curves (GC) <br/>
+Change the date to be as of 3/1/24
 
 
 
