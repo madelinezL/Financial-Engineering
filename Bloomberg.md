@@ -45,9 +45,21 @@ Date as of xx/xx/xx <br/>
 Table <br/>
 Values
 
-#### USD LIBOR <br/>
-Enter "US Dollar Swaps (30/360, S/A)", can also chose "YCSW0023 Index under Securities" - GC (graph curve) <br/>
-Date as of xx/xx/xx <br/>
-Table <br/>
-Values <br/>
-To retrieve 1.25Y and 11Y, go to Curves & Relative Value - Interpolate Curves
+*3/4/2024*
+#### How to perform a search on corporate bonds in a specific industry
+Enter BICS (Bloomberg Industry Classification System), choose Semiconductors <br/>
+Open a new tab, enter SRCH Fixed Income <br/>
+Enter a series of criteria <br/>
+1. BICS Classification - Semiconductor <br/>
+2. Moody's Rating - Baa1 - Baa3 <br/>
+3. Country/Region of Risk - United States of America <br/>
+4. Coupon Type - Fixed <br/>
+5. Maturity Type - Bullet or Make Whole Call <br/>
+6. Maturity - 03/04/2029
+
+
+
+
+
+
+
