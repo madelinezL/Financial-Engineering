@@ -45,6 +45,15 @@ Date as of xx/xx/xx <br/>
 Table <br/>
 Values
 
+#### USD Composite <br/>
+Enter "USD US Composite B-" <br/>
+Date as of xx/xx/xx <br/>
+Table <br/>
+Values <br/>
+Curves & Relatie Value - Add Curve - enter other credit ratings <br/>
+Chart - Copy/Export Options - Copy Data to Clipboard
+
+
 *3/4/2024*
 #### How to perform a search on corporate bonds in a specific industry
 Enter BICS (Bloomberg Industry Classification System), choose Semiconductors <br/>
