@@ -16,3 +16,7 @@ __CapIQ Fundamentals__: https://learn.corporatefinanceinstitute.com/courses/take
 
 ### Pull Data
 USD real estate
+
+### Pull Moody Bond Yield - Baa data
+Moody's Bond Yield Avg - BAA Rated Corporate Index Profile <br/>
+Select the period
