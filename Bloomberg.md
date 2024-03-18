@@ -74,5 +74,14 @@ Clieck Graph Slected Curves (GC) <br/>
 Change the date to be as of 3/1/24
 
 
+*3/18/2024*
+#### How to pull the interest rate on CRE CLO tranches
+Key in the CRE CLO code (i.e. GSTNE 2024-HC3) <br/>
+Choose the Multiple Matches (i.e. GSTNE 2024-HC3 Mtge) <br/>
+Need the value of Floater Spread, Floater Formula columns
 
+#### How to pull the IRR on CRE CLO tranches
+Following the above steps, select the Class A <br/>
+Select Group Summary <br/>
+WAC (Weighted Average Coupon)
 
