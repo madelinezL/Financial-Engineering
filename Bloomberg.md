@@ -66,6 +66,13 @@ Enter a series of criteria <br/>
 5. Maturity Type - Bullet or Make Whole Call <br/>
 6. Maturity - 03/04/2029
 
+*3/25/2024*
+#### How to search Industrial Classification Info for a company
+Enter Company Name or Ticker (e.g. Dynatrace Inc, DT US Equity) <br/>
+Enter BICS <br/>
+Enter the industry in "Search for an Industry" bar <br/>
+Choose the company
+
 #### How to search USD US Financial Services Industry YTM 
 CRVF - Credit - Financials <br/>
 Select BBB, Type USD US Financials, click the USD US Financials BBB+, BBB, BBB- BVAL Yield Curve <br/>
