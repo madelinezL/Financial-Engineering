@@ -92,3 +92,11 @@ Following the above steps, select the Class A <br/>
 Select Group Summary <br/>
 WAC (Weighted Average Coupon)
 
+*4/1/2024*
+#### How to pull the FX rates for SPOT and FORWARD
+Spot <br/>
+CADUSD Curncy - HP <br/>
+Select the date to be deal date
+Forward <br/>
+FRD <br/>
+Type Currencies, Pricing Date, Type Value forwarded date under Broken Dates
