@@ -20,3 +20,6 @@ USD real estate
 ### Pull Moody Bond Yield - Baa data
 Moody's Bond Yield Avg - BAA Rated Corporate Index Profile <br/>
 Select the period
+
+### Pull Credit Rating
+refer to LT foreign issuer credit
