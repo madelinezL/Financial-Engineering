@@ -19,3 +19,6 @@ BB rating USD domestic goverment benchmark
 
 SOFR data
 Curve Builder - CURVB
+
+curve chart preview
+
