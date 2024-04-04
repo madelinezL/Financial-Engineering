@@ -11,3 +11,11 @@ USD-AUD
 solve for 2nd leg
 leg results fixed rate = 6%
 NPV = 0
+
+Curve chart preview
+
+corporate curve - coporate credit
+BB rating USD domestic goverment benchmark
+
+SOFR data
+Curve Builder - CURVB
