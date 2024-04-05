@@ -12,10 +12,10 @@ Leg results fixed rate = input the value <br/>
 NPV = 0
 
 ### How to pull the USD Yield Curve
-Curve chart preview
-corporate curve - coporate credit
-BB rating USD domestic goverment benchmark
-SOFR data
-Curve Builder - CURVB
+Curve chart preview <br/>
+corporate curve - coporate credit <br/>
+BB rating USD domestic goverment benchmark <br/>
+SOFR data <br/>
+Curve Builder - CURVB <br/>
 curve chart preview
 
