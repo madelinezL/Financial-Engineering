@@ -2,7 +2,7 @@
 Charting - Profile - Curves - USDSOFR
 
 #### How to pull the Swap Data
-Swap Pricer <br/>
+Analytics & Calcs --> Swap Pricer (Legacy) <br/>
 USD-AUD
 Swap Type: Cross Currency <br/>
 Start Date = Valuation Date = 3/28/2024
