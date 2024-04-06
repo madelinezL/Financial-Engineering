@@ -5,6 +5,7 @@ Charting - Profile - Curves - USDSOFR
 Analytics & Calcs --> Swap Pricer (Legacy) <br/>
 USD-AUD <br/>
 Solve for 2nd leg
+Discount Curve: OIS SOFR
 Swap Type: Cross Currency <br/>
 Start Date = Valuation Date = 3/28/2024 <br/>
 tenor 1Y <br/>
