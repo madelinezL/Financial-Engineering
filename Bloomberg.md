@@ -97,14 +97,14 @@ WAC (Weighted Average Coupon)
 *4/1/2024*
 #### How to pull the FX rates for SPOT and FORWARD
 Spot <br/>
-CADUSD Curncy - HP <br/>
+CAD USD Curncy - HP <br/>
 Select the date to be deal date
 Forward <br/>
 FRD <br/>
 Type Currencies, Pricing Date, Type Value forwarded date under Broken Dates
 
 *4/12/2024*
-#### How to do an interest rate benchmark
+#### How to do an interest rate benchmark (Internal CUP)
 SRCH (fixed income search) <br/>
 Asset Classes (select Corporates, Additional Options: Consolidate Duplicate Bonds) <br/>
 Remove Security status (as bloomberg does not have functionality to seek for past effective date) <br/>
@@ -114,10 +114,50 @@ Maturity >= 10/16/2023 <br/>
 Maturity Type Select Bullet, Make Whole Call <br/>
 Coupon Type: Fixed <br/>
 
+Adjust the column <br/>
+Issuer Name <br/>
+Bloomberg ID <br/>
+Country/Region of Risk <br/>
+BICS Level 1 Classification <br/>
+BICS Level 2 Classification <br/>
+Issue Date <br/>
+Maturity <br/>
+Next Call Date <br/>
+Maturity Type <br/>
+Coupon <br/>
+Coupon Frequency Description <br/>
+Coupon Type <br/>
+Currency <br/>
+Amount Issued <br/>
+Amount Outstanding <br/>
+BBG Composite <br/>
+Moody's Rating <br/>
+S&P Rating <br/>
+Fitch Rating <br/>
+Day Count Description <br/>
+
 ##### After Determining the comparable securities, <br/>
 
 Input code, select securities, HP <br/>
 as of 10/16/2023 <br/>
-Source: TRACE (if you choose BVAL, you need to double check and confirm it is above 6 for the score) <br/>
-write down Mid YTM 6.608
+Source: TRACE (if you choose BVAL, you need to double check - Type BVAL, enter Security Code and confirm it is above 6 for the score) <br/>
+Mid YTM 6.608
+
+#### How to do an interest rate benchmark (External CUP)
+Common Criteria: <br/>
+Security Status (active)
+BBG Composite
+Country/Region of Risk
+Coupon Type
+BICS Classification
+Currency USD
+Maturity 10/16/2024-10/16/2028 (we usually benchmark remaining tenor (maturity date - effective date of our tested party))
+Maturity Type (i.e. Bullet / At Maturity, Make Whole Call)
+
+
+### How to check BVAL final score
+Type BVAL <br/>
+Enter Securities Code <br/>
+Change the Pricing Date <br/>
+You can see the final BVAL score (out of 10)
 
