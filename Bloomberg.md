@@ -106,13 +106,15 @@ Type Currencies, Pricing Date, Type Value forwarded date under Broken Dates
 *4/12/2024*
 #### How to do an interest rate benchmark
 SRCH (fixed income search) <br/>
-Asset Classes (select Corporates, Additional Options: Consolidate Duplicate Bonds)
-Remove Security status
-Issuer name, input Santander Holdings USA Inc. Current Issuer and all subsidiaries
-Issue Date <= 10/16/2023
-Maturity >= 10/16/2023
-Maturity Type Select Bullet, Make Whole Call
-Coupon Type: Fixed
+Asset Classes (select Corporates, Additional Options: Consolidate Duplicate Bonds) <br/>
+Remove Security status (as bloomberg does not have functionality to seek for past effective date) <br/>
+Issuer name, input Santander Holdings USA Inc. Current Issuer and all subsidiaries <br/>
+Issue Date <= 10/16/2023 <br/>
+Maturity >= 10/16/2023 <br/>
+Maturity Type Select Bullet, Make Whole Call <br/>
+Coupon Type: Fixed <br/>
+
+After Determining the comparable securities, <br/>
 
 Input code, select securities, HP
 as of 10/16/2023
