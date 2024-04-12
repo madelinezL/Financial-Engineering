@@ -114,7 +114,7 @@ Maturity >= 10/16/2023 <br/>
 Maturity Type Select Bullet, Make Whole Call <br/>
 Coupon Type: Fixed <br/>
 
-##### After Determining the comparable securities, ##### <br/>
+##### After Determining the comparable securities, <br/>
 
 Input code, select securities, HP
 as of 10/16/2023
