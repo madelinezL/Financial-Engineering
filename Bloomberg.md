@@ -145,13 +145,13 @@ Mid YTM 6.608
 
 #### How to do an interest rate benchmark (External CUP)
 Common Criteria: <br/>
-Security Status (active)
-BBG Composite
-Country/Region of Risk
-Coupon Type
-BICS Classification
-Currency USD
-Maturity 10/16/2024-10/16/2028 (we usually benchmark remaining tenor (maturity date - effective date of our tested party))
+Security Status (active) <br/>
+BBG Composite <br/>
+Country/Region of Risk <br/>
+Coupon Type <br/>
+BICS Classification <br/>
+Currency USD <br/>
+Maturity 10/16/2024-10/16/2028 (we usually benchmark remaining tenor (maturity date - effective date of our tested party)) <br/>
 Maturity Type (i.e. Bullet / At Maturity, Make Whole Call)
 
 
