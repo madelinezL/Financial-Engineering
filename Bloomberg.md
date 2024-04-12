@@ -116,8 +116,8 @@ Coupon Type: Fixed <br/>
 
 ##### After Determining the comparable securities, <br/>
 
-Input code, select securities, HP
-as of 10/16/2023
-Source: TRACE (if you choose BVAL, you need to double check and confirm it is above 6 for the score)
+Input code, select securities, HP <br/>
+as of 10/16/2023 <br/>
+Source: TRACE (if you choose BVAL, you need to double check and confirm it is above 6 for the score) <br/>
 write down Mid YTM 6.608
 
