@@ -102,3 +102,20 @@ Select the date to be deal date
 Forward <br/>
 FRD <br/>
 Type Currencies, Pricing Date, Type Value forwarded date under Broken Dates
+
+*4/12/2024*
+#### How to do an interest rate benchmark
+SRCH (fixed income search) <br/>
+Asset Classes (select Corporates, Additional Options: Consolidate Duplicate Bonds)
+Remove Security status
+Issuer name, input Santander Holdings USA Inc. Current Issuer and all subsidiaries
+Issue Date <= 10/16/2023
+Maturity >= 10/16/2023
+Maturity Type Select Bullet, Make Whole Call
+Coupon Type: Fixed
+
+Input code, select securities, HP
+as of 10/16/2023
+Source: TRACE (if you choose BVAL, you need to double check and confirm it is above 6 for the score)
+write down Mid YTM 6.608
+
