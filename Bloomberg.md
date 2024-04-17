@@ -157,6 +157,7 @@ Maturity Type (i.e. Bullet / At Maturity, Make Whole Call)
 ### How to search the YTM of a security
 Type the security code
 as of date
+Change the source to be TRACE
 HP
 
 ### How to check BVAL final score
