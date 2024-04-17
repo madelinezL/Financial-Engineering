@@ -79,7 +79,7 @@ Choose the company
 CRVF - Credit - Financials <br/>
 Select BBB, Type USD US Financials, click the USD US Financials BBB+, BBB, BBB- BVAL Yield Curve <br/>
 Same for BB and B <br/>
-Clieck Graph Slected Curves (GC) <br/>
+Click Graph Slected Curves (GC) <br/>
 Change the date to be as of 3/1/24
 
 
