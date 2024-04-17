@@ -154,6 +154,9 @@ Currency USD <br/>
 Maturity 10/16/2024-10/16/2028 (we usually benchmark remaining tenor (maturity date - effective date of our tested party)) <br/>
 Maturity Type (i.e. Bullet / At Maturity, Make Whole Call)
 
+### How to search the YTM of a security
+Type the security code
+HP
 
 ### How to check BVAL final score
 Type BVAL <br/>
