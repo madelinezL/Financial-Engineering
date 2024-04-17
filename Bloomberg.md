@@ -168,6 +168,9 @@ Change the Pricing Date <br/>
 You can see the final BVAL score (out of 10)
 We want to reject the one with BVAL <=6
 
-### Elements to consider when doing CUPs
-Tenor
+### Elements to consider adjustments when doing CUPs
+Credit Rating <br/>
+Tenor <br/>
+Term <br/>
+Prepayment (Coupon - Par Coupon) <br/>
 Frequency (Usually for USD US Financials, the frequency is semi-annual)
