@@ -54,7 +54,15 @@ Date as of xx/xx/xx <br/>
 Table <br/>
 Values <br/>
 Curves & Relatie Value - Add Curve - enter other credit ratings <br/>
-Chart - Copy/Export Options - Copy Data to Clipboard
+Chart - Copy/Export Options - Copy Data to Clipboard <br/> <br/>
+
+USD US Composite 
+BS569: BB+
+BS570: BB
+BS571: BB-
+BS572: B+
+BS573: B
+BS574: B-
 
 
 *3/4/2024*
