@@ -107,7 +107,7 @@ WAC (Weighted Average Coupon)
 #### How to pull the FX rates for SPOT and FORWARD
 Spot <br/>
 CAD USD Curncy - HP <br/>
-Select the date to be deal date <br/>
+Select the date to be deal date <br/> <br/>
 Forward <br/>
 FRD <br/>
 Type Currencies, Pricing Date, Type Value forwarded date under Broken Dates
