@@ -28,8 +28,10 @@ CRVF - Credit - Sector BBB or BB or B - Then type REIT - Graph Selected Curves -
 
 *10/25/2023*
 #### Swap Manager <br/>
-Swap Manager - Solver leg 1 coupon <br/>
+Swap Manager <br/>
 Add Leg - By Type - Floored Floater <br/>
+Delete the Float leg <br/>
+Change the Solver to be Leg 1: Coupon <br/>
 Change the date 05/04/2022, 10/31/2026 accordingly <br/>
 Change the premium to be 0 <br/>
 Change the other attributes, i.e. pay freq, index, spread, floor, etc. <br/>
